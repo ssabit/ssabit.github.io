@@ -71,7 +71,9 @@ body {
   }
 }
 @media (min-width:992px) {
+  body {
   padding: 0px;
+  }
 }
 ul {
   margin: 0;
@@ -543,10 +545,12 @@ p {
 .timeline-progress {
   background: url('../img/progress-bar.png') repeat-y center;
   background-size: 400px 9px;
+  background-color: #249991;
 }
 .timeline-point {
   background: url('../img/progress-point.png') center center;
   background-size: 400px 500px;
+  background-color: #249991;
 }
 .timeline-education {
   background: url('../img/progress-education4.png') no-repeat center center;
@@ -563,6 +567,7 @@ p {
 .timeline-title {
   background: url('../img/progress-section-title3.png') no-repeat center center;
   background-size: 400px 500px;
+  background-color: #249991;
 }
 .timeline-margin .content-wrap {
   height: 40px;
@@ -651,6 +656,7 @@ p {
   font-weight: 800;
   padding: 3px 10px 2px;
   color: #888;
+  background: #249991;
   font-size: 14px;
 }
 .skills-list {
