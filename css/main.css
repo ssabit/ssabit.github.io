@@ -1032,6 +1032,10 @@ ul.social-links li:last-child a {
   margin-bottom: 30px;
 }
 
+.skills-info-extend {
+  margin-top: 46px;
+}
+
 .skills-info h4 { 
   font-size: 0.875em;
   line-height: 1.1em;
